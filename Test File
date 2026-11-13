@@ -1,0 +1,10 @@
+Git init
+Git Status   -- For More info
+Git add filename
+Git add . 
+Git Commit -m "Test Message"
+Git branch -M main
+Git remote add orgin repolink
+git push -u origin main
+
+
